@@ -1,0 +1,58 @@
+body{
+
+  background-color: black;
+    
+}
+
+.card {
+  /*background: #222;*/
+  border: 1px solid #dd2476;
+  color: wheat;
+  margin-bottom: 2rem;
+  background: #42275a; 
+  background: -webkit-linear-gradient(to right, #42275a, #ad389a); 
+  background: linear-gradient(to right, #42275a, #ad389a);
+}
+
+
+.card-img-top {
+  width: 100%;
+  height: 25vh;
+  object-fit: cover;
+  }
+.btn-def {
+  background: #2C302E;
+  border-color: #2C302E;
+  color: #fff;
+  border-radius: 40px;
+
+  }
+
+    .btn-def:hover {
+      background: #474A48;
+      border-color: #474A48;
+      color: #fff;
+    }
+  
+#delete-form {
+
+  display :inline;
+}
+
+.jumbotron {
+  text-align: center;
+    padding: 2rem 1rem;
+    color: wheat;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/135/851/598/lakeside-morning-pink-wallpaper-preview.jpg");
+} 
+
+
+.my-form{
+
+  color: wheat;
+  width: 30%; 
+  margin : 25px auto;
+  text-align: center;
+}
+
+
